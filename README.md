@@ -11,6 +11,8 @@ Script that identifies track title and artist from a list of MP3 files, thanks t
 - [Node.js](https://nodejs.org)
 - [fpcalc](http://acoustid.org/chromaprint) command-line tool, used by [acoustid](https://www.npmjs.com/package/acoustid) for fingerprinting
 
+Don't forget to run `npm install` before usage.
+
 ## Sample output
 
 This script was successfully tested on Mac OS 10.11.6 (El Capitan) in September 2016.
