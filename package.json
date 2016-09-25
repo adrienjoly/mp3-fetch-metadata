@@ -1,0 +1,12 @@
+{
+  "name": "mp3-fetch-metadata",
+  "version": "1.0.0",
+  "description": "Identifies track title and artist from a list of MP3 files, thanks to audio fingerprinting.",
+  "main": "fetch-metadata.sh",
+  "dependencies": {
+    "acoustid": "^1.2.1"
+  },
+  "devDependencies": {},
+  "author": "Adrien Joly",
+  "license": "MIT"
+}
